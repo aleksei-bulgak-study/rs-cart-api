@@ -10,3 +10,7 @@ README.md
 #Linters is not required at runtime
 .prettierrc
 .eslintrc.js
+
+#git related files are not needed
+**/.git
+.gitignore
